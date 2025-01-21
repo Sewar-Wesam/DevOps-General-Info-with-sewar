@@ -17,4 +17,12 @@ The Basic Foundation Topics that we will cover them before starting:
 - Linux
 -  Networking Concepts
 - OS conceptes
+- System monitoring 
+
+What are the tools that we will talk about them? 
+- Terraform for Infrastructure automation
+- Ansible for configuration managment
+- Vagrant for virtualization
+- Jenkins for CI/CD pipelining
+  
 
