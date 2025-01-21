@@ -23,6 +23,7 @@ What are the tools that we will talk about them?
 - Terraform for Infrastructure automation
 - Ansible for configuration managment
 - Vagrant for virtualization
+- Kubernetes and Prometheus for monitoring, Alerting, and visualizing the metrics data
 - Jenkins for CI/CD pipelining
   
 
