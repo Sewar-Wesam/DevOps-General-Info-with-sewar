@@ -27,6 +27,23 @@ What are the tools that we will talk about them?
 - Jenkins for CI/CD pipelining
 
 #### Part Two: Foundation Topics (Linux 🐧)
-
+##### 2.1 Linux Commands
+you should know the basic linux commands and how to use them, what are the most popular options used with these commands. 
+The following list contains some of the linux commands you can start with them for now, dont forget to search for their options also: 
+- pwd
+- mkdir
+- cd
+- touch
+- ls
+- cp
+- grep
+- chmod
+- cat
+- pipe command
+- mv
+- rm and rmdir
+- sort
+- head and tail
+for more info, check this : https://www.digitalocean.com/community/tutorials/linux-commands
   
 
