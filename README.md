@@ -44,6 +44,9 @@ The following list contains some of the linux commands you can start with them f
 - rm and rmdir
 - sort
 - head and tail
-for more info, check this : https://www.digitalocean.com/community/tutorials/linux-commands
-  
+- top command for process observation
+for more info, check this :
+ https://www.digitalocean.com/community/tutorials/linux-commands
+
+
 
