@@ -13,7 +13,8 @@ By the end of our demo, you will be able to answer the following questions:
 - What is the difference between Containerization and Virtualization
 
 The Basic Foundation Topics that we will cover them before starting: 
-- Networking Concepts
+
 - Linux
+-  Networking Concepts
 - OS conceptes
 
