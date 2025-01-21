@@ -11,3 +11,9 @@ By the end of our demo, you will be able to answer the following questions:
 - What are the best text editors can be used as a DevOps Engineer and overview on vim and nano
 - What do we mean by CI/CD pipelines and how do jenkins handle this process
 - What is the difference between Containerization and Virtualization
+
+The Basic Foundation Topics that we will cover them before starting: 
+- Networking Concepts
+- Linux
+- OS conceptes
+
