@@ -25,5 +25,8 @@ What are the tools that we will talk about them?
 - Vagrant for virtualization
 - Kubernetes and Prometheus for monitoring, Alerting, and visualizing the metrics data
 - Jenkins for CI/CD pipelining
+
+#### Part Two: Foundation Topics (Linux 🐧)
+
   
 
