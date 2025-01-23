@@ -47,8 +47,38 @@ The following list contains some of the linux commands you can start with them f
 - top command for process observation
 - dig command
 
-##### 💡 Let we talk about dig command (for its high importance) 
+##### 💡 Let we talk about dig command (due to its high importance) 
 
+dig is an abbreviation for (Domain Information Grouper) : it used for making different DNS (domain name system) queries  
+###### Quick Experiment: 
+I tried to run this command : dig www.ritaj.com and this is the result:   
+
+ ======================================================================================================    
+ 
+; <<>> DiG 9.18.28-0ubuntu0.24.04.1-Ubuntu <<>> www.ritaj.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 551
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;www.ritaj.com.			IN	A
+
+;; AUTHORITY SECTION:
+ritaj.com.		1800	IN	SOA	natasha.ns.cloudflare.com. dns.cloudflare.com. 2363034226 10000 2400 604800 1800
+
+;; Query time: 398 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Thu Jan 23 19:31:14 EET 2025
+;; MSG SIZE  rcvd: 104   
+============================================================================================================   
+
+
+
+==> You can see more about dig command in this link: 
+https://www.cloudns.net/blog/10-most-used-dig-commands/
 
 for more info, check this :
  https://www.digitalocean.com/community/tutorials/linux-commands
