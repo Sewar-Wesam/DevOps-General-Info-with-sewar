@@ -45,8 +45,14 @@ The following list contains some of the linux commands you can start with them f
 - sort
 - head and tail
 - top command for process observation
+- dig command
+
+##### 💡 Let we talk about dig command (for its high importance) 
+
+
 for more info, check this :
  https://www.digitalocean.com/community/tutorials/linux-commands
+
 
 
 
