@@ -60,6 +60,8 @@ In the above result, since ritaj (birzeit domain name) uses the cloudflare, so t
 There are only one query , in the question section, we are quering about record A. you can try more domain names with dig command. like: dig www.facebook.com and so on so forth.    
 
 If you want to know the IP address for a particular domain name, you can use the dig command without any options as you see in the above result so the IP address for the used domain name is 176.119.250.51    
+You can use dig DomainName.com with +short to present a short answer, as shown in the following capture: 
+![Screenshot from 2025-01-23 21-29-29](https://github.com/user-attachments/assets/4f56f66f-e14d-48d2-9172-d26fda2c9d36)
 
 
 ==> You can see more about dig command in this link: 
