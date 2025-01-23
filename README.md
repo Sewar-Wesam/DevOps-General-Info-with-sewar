@@ -8,7 +8,7 @@ By the end of our demo, you will be able to answer the following questions:
 - DevOps benefits and what did it solve
 - Distinguish between DevOps vs SRE
 - What are the used tools in a DevOps engineer work, and what is the role of each tool
-- What are the best text editors can be used as a DevOps Engineer and overview on vim and nano
+- What are the best text editors can be used as a DevOps Engineer and overview on some of them like: vim, vi, and nano
 - What do we mean by CI/CD pipelines and how do jenkins handle this process
 - What is the difference between Containerization and Virtualization
 
