@@ -92,6 +92,9 @@ ritaj.com.		1800	IN	SOA	natasha.ns.cloudflare.com. dns.cloudflare.com. 236303422
 
 ============================================================================================================   
 
+In the above result, since ritaj use the cloudflare, so there is one Authority as you can see: Authority: 1 and its relevant information in the authority section.  
+There are only one query , in the question section, we are quering about record A. you can try more domain names with dig command. like: dig www.facebook.com and so on so forth.    
+
 
 
 ==> You can see more about dig command in this link: 
