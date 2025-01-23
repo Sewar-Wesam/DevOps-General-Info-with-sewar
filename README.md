@@ -51,50 +51,15 @@ The following list contains some of the linux commands you can start with them f
 
 dig is an abbreviation for (Domain Information Grouper) : it used for making different DNS (domain name system) queries  
 ###### Quick Experiment: 
-I tried to run this command : dig www.ritaj.com and this is the result:   
+I tried to run this command : dig www.birzeit.edu and this is the result:   
 
- ======================================================================================================    
- 
-; <<>> DiG 9.18.28-0ubuntu0.24.04.1-Ubuntu <<>> www.ritaj.com  
-
-;; global options: +cmd  
-
-;; Got answer:  
-
-;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 551  
-
-;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1  
+![Screenshot from 2025-01-23 19-52-15](https://github.com/user-attachments/assets/22cf9b50-3552-4ab8-ba61-a8e668e5dda2)
 
 
-;; OPT PSEUDOSECTION:  
-
-; EDNS: version: 0, flags:; udp: 65494  
-
-;; QUESTION SECTION:  
-
-;www.ritaj.com.			IN	A  
-
-
-;; AUTHORITY SECTION:  
-
-ritaj.com.		1800	IN	SOA	natasha.ns.cloudflare.com. dns.cloudflare.com. 2363034226 10000 2400 604800 1800  
-
-
-;; Query time: 398 msec  
-
-;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)  
-
-;; WHEN: Thu Jan 23 19:31:14 EET 2025  
-
-;; MSG SIZE  rcvd: 104     
-
-
-
-============================================================================================================   
-
-In the above result, since ritaj use the cloudflare, so there is one Authority as you can see: Authority: 1 and its relevant information in the authority section.  
+In the above result, since ritaj (birzeit domain name) uses the cloudflare, so there is one Authority as you can see: Authority: 1 and its relevant information in the authority section.  
 There are only one query , in the question section, we are quering about record A. you can try more domain names with dig command. like: dig www.facebook.com and so on so forth.    
 
+If you want to know the IP address for a particular domain name, you can use the dig command without any options.   
 
 
 ==> You can see more about dig command in this link: 
