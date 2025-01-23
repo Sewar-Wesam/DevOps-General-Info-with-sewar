@@ -64,8 +64,28 @@ You can use dig DomainName.com with +short to present a short answer, as shown i
 ![Screenshot from 2025-01-23 21-29-29](https://github.com/user-attachments/assets/4f56f66f-e14d-48d2-9172-d26fda2c9d36)
 
 
+
+Quick Info 🙇🏼‍♀️
+💡 What is the difference between curl and ping commands ?   
+
+
+• curl: Transfers data from or to a server. So, it is used for web requests and content retrieval.   
+
+--> Works in the Application layer (layer 7) in the OSI model.   
+
+• ping: Checks the connectivity for the remote host if it reachable or not using ICMP packets. So it checks the latency and round trip time.   
+
+--> Works in the network layer (layer 3) in the OSI model.  
+
+
+
+
 ==> You can see more about dig command in this link: 
-https://www.cloudns.net/blog/10-most-used-dig-commands/
+https://www.cloudns.net/blog/10-most-used-dig-commands/  
+
+
+  
+
 
 for more info, check this :
  https://www.digitalocean.com/community/tutorials/linux-commands
