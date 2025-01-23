@@ -65,7 +65,8 @@ You can use dig DomainName.com with +short to present a short answer, as shown i
 
 
 
-Quick Info 🙇🏼‍♀️
+Quick Info 🙇🏼‍♀️  
+
 💡 What is the difference between curl and ping commands ?   
 
 
