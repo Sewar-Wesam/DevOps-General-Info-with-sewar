@@ -59,7 +59,7 @@ I tried to run this command : dig www.birzeit.edu and this is the result:
 In the above result, since ritaj (birzeit domain name) uses the cloudflare, so there is one Authority as you can see: Authority: 1 and its relevant information in the authority section.  
 There are only one query , in the question section, we are quering about record A. you can try more domain names with dig command. like: dig www.facebook.com and so on so forth.    
 
-If you want to know the IP address for a particular domain name, you can use the dig command without any options.   
+If you want to know the IP address for a particular domain name, you can use the dig command without any options as you see in the above result so the IP address for the used domain name is 176.119.250.51    
 
 
 ==> You can see more about dig command in this link: 
