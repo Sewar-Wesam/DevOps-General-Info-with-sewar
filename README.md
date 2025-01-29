@@ -84,8 +84,6 @@ Quick Info 🙇🏼‍♀️
 ==> You can see more about dig command in this link: 
 https://www.cloudns.net/blog/10-most-used-dig-commands/  
 
-==> It will be very useful if you watch this video: 
-https://www.youtube.com/watch?v=lVLcM-GTDUU
   
 
 
@@ -94,4 +92,6 @@ for more info, check this :
 
 
 
+==> It will be very useful if you watch this video: 
+https://www.youtube.com/watch?v=lVLcM-GTDUU
 
